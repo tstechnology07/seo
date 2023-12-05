@@ -12,5 +12,6 @@ Effective SEO strategies improve a website's ranking in search results, leading 
 Credibility and Trust:
 
 Websites that appear at the top of search results are often perceived as more credible and trustworthy by users. Users are more likely to click on results from the first page of search engines.
-Better User Experience:
+Better User Experience:![Screenshot 2023-12-05 152923](https://github.com/tstechnology07/seo/assets/118080613/ff1bf609-8bfb-4b1d-80c3-861c427dfbd0)
+
 
